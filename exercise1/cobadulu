@@ -1,0 +1,25 @@
+
+class cobadulu{
+    static BufferedReader reader = new
+     public static void main(String[] args){
+
+//
+//        int a;
+//        a=8;
+//        if (a>=5 && a<=8 ) {
+//            System.out.println("monggo masuk");
+//        }
+//        else {System.out.println("Time Over");
+//        }
+
+        int a = 7;
+        System.out.println(dikaliDua(Integer.PharseInt(rea)));
+
+     }
+    static Integer dikaliDua(int numb){
+        result = num*2;
+        return result;
+
+    }
+}
+

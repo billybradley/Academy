@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - tugas",
+            "request": "launch",
+            "mainClass": "tugas",
+            "projectName": "exercise1_8cca16dc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - cobaAja",
+            "request": "launch",
+            "mainClass": "cobaAja",
+            "projectName": "exercise1_8cca16dc"
+        }
+    ]
+}
